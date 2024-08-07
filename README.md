@@ -1,4 +1,4 @@
-# XYZ Bank
+# Loan Management
 Created a loan management system in java to practice and refine my skills and knowledge to code.
 This project is designed to register and manage credit records for XYZBank customers. It allows for the entry, updating, and retrieval of various loan details, including:
 Record ID
